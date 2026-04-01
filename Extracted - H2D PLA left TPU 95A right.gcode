@@ -126,7 +126,7 @@
 ; filament_map_mode = Manual
 ; filament_max_volumetric_speed = 3.6,20,25,25
 ; filament_minimal_purge_on_wipe_tower = 15,15,15,15
-; filament_multi_colour = #FFFFFF;#D32941;#161616;#FFFFFF
+; filament_multi_colour = #ffd106;#D32941;#161616;#FFFFFF
 ; filament_notes = 
 ; filament_nozzle_map = 1,0,0,0
 ; filament_pre_cooling_temperature = 200,0,0,0
