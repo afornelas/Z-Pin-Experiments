@@ -139,7 +139,7 @@
 ; filament_map_mode = Auto For Flush
 ; filament_max_volumetric_speed = 25,25,25,20
 ; filament_minimal_purge_on_wipe_tower = 15,15,15,15
-; filament_multi_colour = #161616;#FFFFFF;#FFFFFF;#D32941
+; filament_multi_colour = #FFFFFF;#FFFFFF;#FFFFFF;#D32941
 ; filament_notes = 
 ; filament_nozzle_map = 0,1,1,0
 ; filament_overhang_1_4_speed = 0,0,0,0
